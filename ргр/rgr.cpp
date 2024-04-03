@@ -63,7 +63,6 @@ int main() {
 
 void task1() {
 	int number = 131;
-	cout << "number = " << number << endl;
 
 	cout << "In decimal = " << number << " to binary = " << Dec_To_S(number) << endl;
 	cout << "In decimal = " << number << " to hexadecimal = "; Dec_To_Six(number);
@@ -87,8 +86,6 @@ string Dec_To_S(int n) {
 
 void task2() {
 	int number = 2358;
-
-	cout << "Число = " << number << endl;
 
 	cout << "In decimal =  " << number << " to binary = " << Dec_To_S(number) << endl;
 	cout << "In decimal =  " << number << " to hexadecimal = ";Dec_To_Six(number);
