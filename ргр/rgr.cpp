@@ -35,19 +35,19 @@ int main() {
 
 		switch (choice) {
 			case 1: {
-				task1();		// Task of converting the number 131 from decimal to binary and hexadecimal;
+				task1();		// Task of converting the number 131 from decimal to binary and hexadecimal
 				break;
 			}
 			case 2: {
-				task2();		// The task of converting the number 2358 from decimal to hexadecimal and binary;
+				task2();		// The task of converting the number 2358 from decimal to hexadecimal and binary
 				break;
 			}
 			case 3: {
-				task3();		// Задание превращения из десятичной в четырнадцатиричную СС;
+				task3();		// Conversion task from decimal to fourteen
 				break;
 			}
 			case 4: {
-				task4();		// Задание сложения двух чисел 143 и 2288 в двоичной СС;
+				task4();		// Adding two numbers 131 and 2358 in binary
 				break;
 			}
 			case 5: {
